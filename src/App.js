@@ -26,7 +26,7 @@ function App() {
     selectOptionTypes.push(objects);
   });
 
-  const BaseUrl = "http://localhost:3000/";
+  const BaseUrl = "https://picnic-backend-production.up.railway.app/";
 
   useEffect(() => {
     axios.get(BaseUrl).then((response) => {

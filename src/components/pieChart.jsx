@@ -44,7 +44,7 @@ const charts = ({ data }) => {
         chartType="BarChart"
         data={chartDataWithDescription}
         options={options2}
-        width={"95%"}
+        width={"100%"}
         height={"600px"}
       />
     </>
