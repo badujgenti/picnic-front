@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/picnic-front/static/css/main.e621a67b.css",
+    "main.js": "/picnic-front/static/js/main.17cfcaa4.js",
+    "index.html": "/picnic-front/index.html",
+    "main.e621a67b.css.map": "/picnic-front/static/css/main.e621a67b.css.map",
+    "main.17cfcaa4.js.map": "/picnic-front/static/js/main.17cfcaa4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e621a67b.css",
+    "static/js/main.17cfcaa4.js"
+  ]
+}
